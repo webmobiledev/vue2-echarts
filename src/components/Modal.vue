@@ -39,7 +39,7 @@ export default {
     IEcharts
   },
   mounted () {
-    axios.get('http://localhost:8080/static/data.json').then(res => {
+    axios.get('/static/data.json').then(res => {
       if (res && res.data && res.data.data) {
         res.data.data.forEach((d, index) => {
           let now = new Date(d.modifiedDate)
