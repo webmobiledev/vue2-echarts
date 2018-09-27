@@ -1,0 +1,1302 @@
+{"data": [
+    {
+        "id": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5",
+        "externalId": "00ed02eb60cf8a331a1cf436244d85d6eb",
+        "companyId": "pubocean",
+        "source": "Outbrain",
+        "accountId": "0049f790551a30f3fb7f4f0e1058799d3c",
+        "name": "106768| Travolta DAUGHTER MT",
+        "campaignBudget": {
+            "name": "8a8af800-b5ed-11e8-8b1a-d1b02f1ed18e",
+            "amount": 4500,
+            "amountRemaining": null,
+            "pacing": "SPEND_ASAP",
+            "currency": "USD",
+            "type": "DAILY",
+            "startDate": null,
+            "runForever": true,
+            "endDate": null,
+            "dailyTarget": null
+        },
+        "campaignLiveStatus": {
+            "onAir": true,
+            "onAirReason": "CAMPAIGN_ON_AIR",
+            "amountSpent": 952.27,
+            "enabled": true
+        },
+        "campaignCreationTime": "2018-09-11T15:07:27",
+        "modifiedDate": "2018-09-24T17:28:25.013",
+        "trackingParameters": {
+            "utm_term": "{{publisher_name}}_-_{{section_name}}_-_{{publisher_id}}_-_{{section_id}}",
+            "utm_campaign": "106768",
+            "utm_medium": "CPC",
+            "utm_content": "{{ad_title}}",
+            "utm_source": "Outbrain-AdRizer"
+        },
+        "revenue": null,
+        "cpc": 0.045,
+        "campaignRunning": false,
+        "campaignSections": [
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0048938c4af9641f2e04565be89ece5954_009ccab152daff19c2f26990be7be1164b",
+                "publisherId": "0048938c4af9641f2e04565be89ece5954",
+                "externalId": "009ccab152daff19c2f26990be7be1164b",
+                "name": "CNN",
+                "blocked": false,
+                "cpcAdjustment": 0.04,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_004212d4e187697bc2ce1a454fa06c19d2_00542eb6b0fdc890d2999b82152a73a05e",
+                "publisherId": "004212d4e187697bc2ce1a454fa06c19d2",
+                "externalId": "00542eb6b0fdc890d2999b82152a73a05e",
+                "name": "Page Six",
+                "blocked": false,
+                "cpcAdjustment": -0.02,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0041797707f15898985d814c630ea4cbcf_00474a66c55d0c6edfd2589c64ab95a565",
+                "publisherId": "0041797707f15898985d814c630ea4cbcf",
+                "externalId": "00474a66c55d0c6edfd2589c64ab95a565",
+                "name": "Fox News US",
+                "blocked": false,
+                "cpcAdjustment": -0.03,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0048938c4af9641f2e04565be89ece5954_0010207ecdf4c62cfba32bfaf33a3ec5a4",
+                "publisherId": "0048938c4af9641f2e04565be89ece5954",
+                "externalId": "0010207ecdf4c62cfba32bfaf33a3ec5a4",
+                "name": "CNN",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0025ea92db071c35649ca412ac02c2b737_00ed9831dc955416ad62faade33c27a16d",
+                "publisherId": "0025ea92db071c35649ca412ac02c2b737",
+                "externalId": "00ed9831dc955416ad62faade33c27a16d",
+                "name": "TVLine",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0045e2808a47a473a35ef2abaa0fe60317_00fddb3a1077928bcecd0296fcd653045a",
+                "publisherId": "0045e2808a47a473a35ef2abaa0fe60317",
+                "externalId": "00fddb3a1077928bcecd0296fcd653045a",
+                "name": "Deadline",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0048938c4af9641f2e04565be89ece5954_00d935ee6e523aed7ba15d28456c35a272",
+                "publisherId": "0048938c4af9641f2e04565be89ece5954",
+                "externalId": "00d935ee6e523aed7ba15d28456c35a272",
+                "name": "CNN",
+                "blocked": false,
+                "cpcAdjustment": 0.04,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_00b542aec584ff158091f8f7f6d7650a06_009dead5d50c35e4c3375a9e4c9be2155d",
+                "publisherId": "00b542aec584ff158091f8f7f6d7650a06",
+                "externalId": "009dead5d50c35e4c3375a9e4c9be2155d",
+                "name": "The Hill Administration",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            }
+        ],
+        "targetPlatforms": [
+            "TABLET",
+            "MOBILE"
+        ],
+        "targetOperatingSystems": [
+            "Android"
+        ],
+        "targetBrowsers": [],
+        "domain": "scribol.com",
+        "externalUrl": null
+    },
+    {
+        "id": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5",
+        "externalId": "00ed02eb60cf8a331a1cf436244d85d6eb",
+        "companyId": "pubocean",
+        "source": "Outbrain",
+        "accountId": "0049f790551a30f3fb7f4f0e1058799d3c",
+        "name": "106768| Travolta DAUGHTER MT",
+        "campaignBudget": {
+            "name": "8a8af800-b5ed-11e8-8b1a-d1b02f1ed18e",
+            "amount": 4500,
+            "amountRemaining": null,
+            "pacing": "SPEND_ASAP",
+            "currency": "USD",
+            "type": "DAILY",
+            "startDate": "2018-09-13",
+            "runForever": true,
+            "endDate": null,
+            "dailyTarget": null
+        },
+        "campaignLiveStatus": {
+            "onAir": true,
+            "onAirReason": "CAMPAIGN_ON_AIR",
+            "amountSpent": 952.27,
+            "enabled": true
+        },
+        "campaignCreationTime": "2018-09-11T15:07:27",
+        "modifiedDate": "2018-09-24T21:04:10.119",
+        "trackingParameters": {
+            "utm_term": "{{publisher_name}}_-_{{section_name}}_-_{{publisher_id}}_-_{{section_id}}",
+            "utm_campaign": "106768",
+            "utm_medium": "CPC",
+            "utm_content": "{{ad_title}}",
+            "utm_source": "Outbrain-AdRizer"
+        },
+        "revenue": null,
+        "cpc": 0.04,
+        "campaignRunning": false,
+        "campaignSections": [
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0048938c4af9641f2e04565be89ece5954_0010207ecdf4c62cfba32bfaf33a3ec5a4",
+                "publisherId": "0048938c4af9641f2e04565be89ece5954",
+                "externalId": "0010207ecdf4c62cfba32bfaf33a3ec5a4",
+                "name": "CNN",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0048938c4af9641f2e04565be89ece5954_009ccab152daff19c2f26990be7be1164b",
+                "publisherId": "0048938c4af9641f2e04565be89ece5954",
+                "externalId": "009ccab152daff19c2f26990be7be1164b",
+                "name": "CNN",
+                "blocked": false,
+                "cpcAdjustment": 0.04,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0045e2808a47a473a35ef2abaa0fe60317_00fddb3a1077928bcecd0296fcd653045a",
+                "publisherId": "0045e2808a47a473a35ef2abaa0fe60317",
+                "externalId": "00fddb3a1077928bcecd0296fcd653045a",
+                "name": "Deadline",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_00b542aec584ff158091f8f7f6d7650a06_009dead5d50c35e4c3375a9e4c9be2155d",
+                "publisherId": "00b542aec584ff158091f8f7f6d7650a06",
+                "externalId": "009dead5d50c35e4c3375a9e4c9be2155d",
+                "name": "The Hill Administration",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0025ea92db071c35649ca412ac02c2b737_00ed9831dc955416ad62faade33c27a16d",
+                "publisherId": "0025ea92db071c35649ca412ac02c2b737",
+                "externalId": "00ed9831dc955416ad62faade33c27a16d",
+                "name": "TVLine",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0041797707f15898985d814c630ea4cbcf_00474a66c55d0c6edfd2589c64ab95a565",
+                "publisherId": "0041797707f15898985d814c630ea4cbcf",
+                "externalId": "00474a66c55d0c6edfd2589c64ab95a565",
+                "name": "Fox News US",
+                "blocked": false,
+                "cpcAdjustment": -0.03,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_004212d4e187697bc2ce1a454fa06c19d2_00542eb6b0fdc890d2999b82152a73a05e",
+                "publisherId": "004212d4e187697bc2ce1a454fa06c19d2",
+                "externalId": "00542eb6b0fdc890d2999b82152a73a05e",
+                "name": "Page Six",
+                "blocked": false,
+                "cpcAdjustment": -0.02,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0048938c4af9641f2e04565be89ece5954_00d935ee6e523aed7ba15d28456c35a272",
+                "publisherId": "0048938c4af9641f2e04565be89ece5954",
+                "externalId": "00d935ee6e523aed7ba15d28456c35a272",
+                "name": "CNN",
+                "blocked": false,
+                "cpcAdjustment": 0.04,
+                "trackingParameters": {},
+                "revenue": null
+            }
+        ],
+        "targetPlatforms": [
+            "TABLET",
+            "MOBILE"
+        ],
+        "targetOperatingSystems": [
+            "Android"
+        ],
+        "targetBrowsers": [],
+        "domain": "scribol.com",
+        "externalUrl": null
+    },
+    {
+        "id": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5",
+        "externalId": "00ed02eb60cf8a331a1cf436244d85d6eb",
+        "companyId": "pubocean",
+        "source": "Outbrain",
+        "accountId": "0049f790551a30f3fb7f4f0e1058799d3c",
+        "name": "106768| Travolta DAUGHTER MT",
+        "campaignBudget": {
+            "name": "8a8af800-b5ed-11e8-8b1a-d1b02f1ed18e",
+            "amount": 4500,
+            "amountRemaining": null,
+            "pacing": "SPEND_ASAP",
+            "currency": "USD",
+            "type": "DAILY",
+            "startDate": "2018-09-13",
+            "runForever": true,
+            "endDate": null,
+            "dailyTarget": null
+        },
+        "campaignLiveStatus": {
+            "onAir": true,
+            "onAirReason": "CAMPAIGN_ON_AIR",
+            "amountSpent": 952.27,
+            "enabled": true
+        },
+        "campaignCreationTime": "2018-09-11T15:07:27",
+        "modifiedDate": "2018-09-25T04:03:43.914",
+        "trackingParameters": {
+            "utm_term": "{{publisher_name}}_-_{{section_name}}_-_{{publisher_id}}_-_{{section_id}}",
+            "utm_campaign": "106768",
+            "utm_medium": "CPC",
+            "utm_content": "{{ad_title}}",
+            "utm_source": "Outbrain-AdRizer"
+        },
+        "revenue": null,
+        "cpc": 0.065,
+        "campaignRunning": false,
+        "campaignSections": [
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_004212d4e187697bc2ce1a454fa06c19d2_00542eb6b0fdc890d2999b82152a73a05e",
+                "publisherId": "004212d4e187697bc2ce1a454fa06c19d2",
+                "externalId": "00542eb6b0fdc890d2999b82152a73a05e",
+                "name": "Page Six",
+                "blocked": false,
+                "cpcAdjustment": -0.02,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_00b542aec584ff158091f8f7f6d7650a06_009dead5d50c35e4c3375a9e4c9be2155d",
+                "publisherId": "00b542aec584ff158091f8f7f6d7650a06",
+                "externalId": "009dead5d50c35e4c3375a9e4c9be2155d",
+                "name": "The Hill Administration",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0048938c4af9641f2e04565be89ece5954_009ccab152daff19c2f26990be7be1164b",
+                "publisherId": "0048938c4af9641f2e04565be89ece5954",
+                "externalId": "009ccab152daff19c2f26990be7be1164b",
+                "name": "CNN",
+                "blocked": false,
+                "cpcAdjustment": 0.04,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0048938c4af9641f2e04565be89ece5954_00d935ee6e523aed7ba15d28456c35a272",
+                "publisherId": "0048938c4af9641f2e04565be89ece5954",
+                "externalId": "00d935ee6e523aed7ba15d28456c35a272",
+                "name": "CNN",
+                "blocked": false,
+                "cpcAdjustment": 0.04,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0048938c4af9641f2e04565be89ece5954_0010207ecdf4c62cfba32bfaf33a3ec5a4",
+                "publisherId": "0048938c4af9641f2e04565be89ece5954",
+                "externalId": "0010207ecdf4c62cfba32bfaf33a3ec5a4",
+                "name": "CNN",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0045e2808a47a473a35ef2abaa0fe60317_00fddb3a1077928bcecd0296fcd653045a",
+                "publisherId": "0045e2808a47a473a35ef2abaa0fe60317",
+                "externalId": "00fddb3a1077928bcecd0296fcd653045a",
+                "name": "Deadline",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0041797707f15898985d814c630ea4cbcf_00474a66c55d0c6edfd2589c64ab95a565",
+                "publisherId": "0041797707f15898985d814c630ea4cbcf",
+                "externalId": "00474a66c55d0c6edfd2589c64ab95a565",
+                "name": "Fox News US",
+                "blocked": false,
+                "cpcAdjustment": -0.03,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0025ea92db071c35649ca412ac02c2b737_00ed9831dc955416ad62faade33c27a16d",
+                "publisherId": "0025ea92db071c35649ca412ac02c2b737",
+                "externalId": "00ed9831dc955416ad62faade33c27a16d",
+                "name": "TVLine",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            }
+        ],
+        "targetPlatforms": [
+            "TABLET",
+            "MOBILE"
+        ],
+        "targetOperatingSystems": [
+            "Android"
+        ],
+        "targetBrowsers": [],
+        "domain": "scribol.com",
+        "externalUrl": null
+    },
+    {
+        "id": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5",
+        "externalId": "00ed02eb60cf8a331a1cf436244d85d6eb",
+        "companyId": "pubocean",
+        "source": "Outbrain",
+        "accountId": "0049f790551a30f3fb7f4f0e1058799d3c",
+        "name": "106768| Travolta DAUGHTER MT",
+        "campaignBudget": {
+            "name": "8a8af800-b5ed-11e8-8b1a-d1b02f1ed18e",
+            "amount": 4500,
+            "amountRemaining": null,
+            "pacing": "SPEND_ASAP",
+            "currency": "USD",
+            "type": "DAILY",
+            "startDate": "2018-09-13",
+            "runForever": true,
+            "endDate": null,
+            "dailyTarget": null
+        },
+        "campaignLiveStatus": {
+            "onAir": true,
+            "onAirReason": "CAMPAIGN_ON_AIR",
+            "amountSpent": 952.27,
+            "enabled": true
+        },
+        "campaignCreationTime": "2018-09-11T15:07:27",
+        "modifiedDate": "2018-09-25T11:04:38.866",
+        "trackingParameters": {
+            "utm_term": "{{publisher_name}}_-_{{section_name}}_-_{{publisher_id}}_-_{{section_id}}",
+            "utm_campaign": "106768",
+            "utm_medium": "CPC",
+            "utm_content": "{{ad_title}}",
+            "utm_source": "Outbrain-AdRizer"
+        },
+        "revenue": null,
+        "cpc": 0.06,
+        "campaignRunning": false,
+        "campaignSections": [
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0045e2808a47a473a35ef2abaa0fe60317_00fddb3a1077928bcecd0296fcd653045a",
+                "publisherId": "0045e2808a47a473a35ef2abaa0fe60317",
+                "externalId": "00fddb3a1077928bcecd0296fcd653045a",
+                "name": "Deadline",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0048938c4af9641f2e04565be89ece5954_009ccab152daff19c2f26990be7be1164b",
+                "publisherId": "0048938c4af9641f2e04565be89ece5954",
+                "externalId": "009ccab152daff19c2f26990be7be1164b",
+                "name": "CNN",
+                "blocked": false,
+                "cpcAdjustment": 0.04,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0048938c4af9641f2e04565be89ece5954_00d935ee6e523aed7ba15d28456c35a272",
+                "publisherId": "0048938c4af9641f2e04565be89ece5954",
+                "externalId": "00d935ee6e523aed7ba15d28456c35a272",
+                "name": "CNN",
+                "blocked": false,
+                "cpcAdjustment": 0.04,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0025ea92db071c35649ca412ac02c2b737_00ed9831dc955416ad62faade33c27a16d",
+                "publisherId": "0025ea92db071c35649ca412ac02c2b737",
+                "externalId": "00ed9831dc955416ad62faade33c27a16d",
+                "name": "TVLine",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_00b542aec584ff158091f8f7f6d7650a06_009dead5d50c35e4c3375a9e4c9be2155d",
+                "publisherId": "00b542aec584ff158091f8f7f6d7650a06",
+                "externalId": "009dead5d50c35e4c3375a9e4c9be2155d",
+                "name": "The Hill Administration",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_004212d4e187697bc2ce1a454fa06c19d2_00542eb6b0fdc890d2999b82152a73a05e",
+                "publisherId": "004212d4e187697bc2ce1a454fa06c19d2",
+                "externalId": "00542eb6b0fdc890d2999b82152a73a05e",
+                "name": "Page Six",
+                "blocked": false,
+                "cpcAdjustment": -0.02,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0041797707f15898985d814c630ea4cbcf_00474a66c55d0c6edfd2589c64ab95a565",
+                "publisherId": "0041797707f15898985d814c630ea4cbcf",
+                "externalId": "00474a66c55d0c6edfd2589c64ab95a565",
+                "name": "Fox News US",
+                "blocked": false,
+                "cpcAdjustment": -0.03,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0048938c4af9641f2e04565be89ece5954_0010207ecdf4c62cfba32bfaf33a3ec5a4",
+                "publisherId": "0048938c4af9641f2e04565be89ece5954",
+                "externalId": "0010207ecdf4c62cfba32bfaf33a3ec5a4",
+                "name": "CNN",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            }
+        ],
+        "targetPlatforms": [
+            "TABLET",
+            "MOBILE"
+        ],
+        "targetOperatingSystems": [
+            "Android"
+        ],
+        "targetBrowsers": [],
+        "domain": "scribol.com",
+        "externalUrl": null
+    },
+    {
+        "id": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5",
+        "externalId": "00ed02eb60cf8a331a1cf436244d85d6eb",
+        "companyId": "pubocean",
+        "source": "Outbrain",
+        "accountId": "0049f790551a30f3fb7f4f0e1058799d3c",
+        "name": "106768| Travolta DAUGHTER MT",
+        "campaignBudget": {
+            "name": "8a8af800-b5ed-11e8-8b1a-d1b02f1ed18e",
+            "amount": 4500,
+            "amountRemaining": null,
+            "pacing": "SPEND_ASAP",
+            "currency": "USD",
+            "type": "DAILY",
+            "startDate": "2018-09-13",
+            "runForever": true,
+            "endDate": null,
+            "dailyTarget": null
+        },
+        "campaignLiveStatus": {
+            "onAir": true,
+            "onAirReason": "CAMPAIGN_ON_AIR",
+            "amountSpent": 952.27,
+            "enabled": true
+        },
+        "campaignCreationTime": "2018-09-11T15:07:27",
+        "modifiedDate": "2018-09-25T15:05:19.117",
+        "trackingParameters": {
+            "utm_term": "{{publisher_name}}_-_{{section_name}}_-_{{publisher_id}}_-_{{section_id}}",
+            "utm_campaign": "106768",
+            "utm_medium": "CPC",
+            "utm_content": "{{ad_title}}",
+            "utm_source": "Outbrain-AdRizer"
+        },
+        "revenue": null,
+        "cpc": 0.055,
+        "campaignRunning": false,
+        "campaignSections": [
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_00b542aec584ff158091f8f7f6d7650a06_009dead5d50c35e4c3375a9e4c9be2155d",
+                "publisherId": "00b542aec584ff158091f8f7f6d7650a06",
+                "externalId": "009dead5d50c35e4c3375a9e4c9be2155d",
+                "name": "The Hill Administration",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0048938c4af9641f2e04565be89ece5954_00d935ee6e523aed7ba15d28456c35a272",
+                "publisherId": "0048938c4af9641f2e04565be89ece5954",
+                "externalId": "00d935ee6e523aed7ba15d28456c35a272",
+                "name": "CNN",
+                "blocked": false,
+                "cpcAdjustment": 0.04,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_004212d4e187697bc2ce1a454fa06c19d2_00542eb6b0fdc890d2999b82152a73a05e",
+                "publisherId": "004212d4e187697bc2ce1a454fa06c19d2",
+                "externalId": "00542eb6b0fdc890d2999b82152a73a05e",
+                "name": "Page Six",
+                "blocked": false,
+                "cpcAdjustment": -0.02,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0041797707f15898985d814c630ea4cbcf_00474a66c55d0c6edfd2589c64ab95a565",
+                "publisherId": "0041797707f15898985d814c630ea4cbcf",
+                "externalId": "00474a66c55d0c6edfd2589c64ab95a565",
+                "name": "Fox News US",
+                "blocked": false,
+                "cpcAdjustment": -0.03,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0048938c4af9641f2e04565be89ece5954_009ccab152daff19c2f26990be7be1164b",
+                "publisherId": "0048938c4af9641f2e04565be89ece5954",
+                "externalId": "009ccab152daff19c2f26990be7be1164b",
+                "name": "CNN",
+                "blocked": false,
+                "cpcAdjustment": 0.04,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0025ea92db071c35649ca412ac02c2b737_00ed9831dc955416ad62faade33c27a16d",
+                "publisherId": "0025ea92db071c35649ca412ac02c2b737",
+                "externalId": "00ed9831dc955416ad62faade33c27a16d",
+                "name": "TVLine",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0048938c4af9641f2e04565be89ece5954_0010207ecdf4c62cfba32bfaf33a3ec5a4",
+                "publisherId": "0048938c4af9641f2e04565be89ece5954",
+                "externalId": "0010207ecdf4c62cfba32bfaf33a3ec5a4",
+                "name": "CNN",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0045e2808a47a473a35ef2abaa0fe60317_00fddb3a1077928bcecd0296fcd653045a",
+                "publisherId": "0045e2808a47a473a35ef2abaa0fe60317",
+                "externalId": "00fddb3a1077928bcecd0296fcd653045a",
+                "name": "Deadline",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            }
+        ],
+        "targetPlatforms": [
+            "TABLET",
+            "MOBILE"
+        ],
+        "targetOperatingSystems": [
+            "Android"
+        ],
+        "targetBrowsers": [],
+        "domain": "scribol.com",
+        "externalUrl": null
+    },
+    {
+        "id": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5",
+        "externalId": "00ed02eb60cf8a331a1cf436244d85d6eb",
+        "companyId": "pubocean",
+        "source": "Outbrain",
+        "accountId": "0049f790551a30f3fb7f4f0e1058799d3c",
+        "name": "106768| Travolta DAUGHTER MT",
+        "campaignBudget": {
+            "name": "8a8af800-b5ed-11e8-8b1a-d1b02f1ed18e",
+            "amount": 4500,
+            "amountRemaining": null,
+            "pacing": "SPEND_ASAP",
+            "currency": "USD",
+            "type": "DAILY",
+            "startDate": "2018-09-13",
+            "runForever": true,
+            "endDate": null,
+            "dailyTarget": null
+        },
+        "campaignLiveStatus": {
+            "onAir": true,
+            "onAirReason": "CAMPAIGN_ON_AIR",
+            "amountSpent": 952.27,
+            "enabled": true
+        },
+        "campaignCreationTime": "2018-09-11T15:07:27",
+        "modifiedDate": "2018-09-25T16:42:23.505",
+        "trackingParameters": {
+            "utm_term": "{{publisher_name}}_-_{{section_name}}_-_{{publisher_id}}_-_{{section_id}}",
+            "utm_campaign": "106768",
+            "utm_medium": "CPC",
+            "utm_content": "{{ad_title}}",
+            "utm_source": "Outbrain-AdRizer"
+        },
+        "revenue": null,
+        "cpc": 0.05,
+        "campaignRunning": false,
+        "campaignSections": [
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_004212d4e187697bc2ce1a454fa06c19d2_00542eb6b0fdc890d2999b82152a73a05e",
+                "publisherId": "004212d4e187697bc2ce1a454fa06c19d2",
+                "externalId": "00542eb6b0fdc890d2999b82152a73a05e",
+                "name": "Page Six",
+                "blocked": false,
+                "cpcAdjustment": -0.02,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0048938c4af9641f2e04565be89ece5954_00d935ee6e523aed7ba15d28456c35a272",
+                "publisherId": "0048938c4af9641f2e04565be89ece5954",
+                "externalId": "00d935ee6e523aed7ba15d28456c35a272",
+                "name": "CNN",
+                "blocked": false,
+                "cpcAdjustment": 0.04,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0025ea92db071c35649ca412ac02c2b737_00ed9831dc955416ad62faade33c27a16d",
+                "publisherId": "0025ea92db071c35649ca412ac02c2b737",
+                "externalId": "00ed9831dc955416ad62faade33c27a16d",
+                "name": "TVLine",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0045e2808a47a473a35ef2abaa0fe60317_00fddb3a1077928bcecd0296fcd653045a",
+                "publisherId": "0045e2808a47a473a35ef2abaa0fe60317",
+                "externalId": "00fddb3a1077928bcecd0296fcd653045a",
+                "name": "Deadline",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0041797707f15898985d814c630ea4cbcf_00474a66c55d0c6edfd2589c64ab95a565",
+                "publisherId": "0041797707f15898985d814c630ea4cbcf",
+                "externalId": "00474a66c55d0c6edfd2589c64ab95a565",
+                "name": "Fox News US",
+                "blocked": false,
+                "cpcAdjustment": -0.03,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_00b542aec584ff158091f8f7f6d7650a06_009dead5d50c35e4c3375a9e4c9be2155d",
+                "publisherId": "00b542aec584ff158091f8f7f6d7650a06",
+                "externalId": "009dead5d50c35e4c3375a9e4c9be2155d",
+                "name": "The Hill Administration",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0048938c4af9641f2e04565be89ece5954_0010207ecdf4c62cfba32bfaf33a3ec5a4",
+                "publisherId": "0048938c4af9641f2e04565be89ece5954",
+                "externalId": "0010207ecdf4c62cfba32bfaf33a3ec5a4",
+                "name": "CNN",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0048938c4af9641f2e04565be89ece5954_009ccab152daff19c2f26990be7be1164b",
+                "publisherId": "0048938c4af9641f2e04565be89ece5954",
+                "externalId": "009ccab152daff19c2f26990be7be1164b",
+                "name": "CNN",
+                "blocked": false,
+                "cpcAdjustment": 0.04,
+                "trackingParameters": {},
+                "revenue": null
+            }
+        ],
+        "targetPlatforms": [
+            "TABLET",
+            "MOBILE"
+        ],
+        "targetOperatingSystems": [
+            "Android"
+        ],
+        "targetBrowsers": [],
+        "domain": "scribol.com",
+        "externalUrl": null
+    },
+    {
+        "id": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5",
+        "externalId": "00ed02eb60cf8a331a1cf436244d85d6eb",
+        "companyId": "pubocean",
+        "source": "Outbrain",
+        "accountId": "0049f790551a30f3fb7f4f0e1058799d3c",
+        "name": "106768| Travolta DAUGHTER MT",
+        "campaignBudget": {
+            "name": "8a8af800-b5ed-11e8-8b1a-d1b02f1ed18e",
+            "amount": 4500,
+            "amountRemaining": null,
+            "pacing": "SPEND_ASAP",
+            "currency": "USD",
+            "type": "DAILY",
+            "startDate": "2018-09-13",
+            "runForever": true,
+            "endDate": null,
+            "dailyTarget": null
+        },
+        "campaignLiveStatus": {
+            "onAir": true,
+            "onAirReason": "CAMPAIGN_ON_AIR",
+            "amountSpent": 952.27,
+            "enabled": true
+        },
+        "campaignCreationTime": "2018-09-11T15:07:27",
+        "modifiedDate": "2018-09-25T17:04:15.178",
+        "trackingParameters": {
+            "utm_term": "{{publisher_name}}_-_{{section_name}}_-_{{publisher_id}}_-_{{section_id}}",
+            "utm_campaign": "106768",
+            "utm_medium": "CPC",
+            "utm_content": "{{ad_title}}",
+            "utm_source": "Outbrain-AdRizer"
+        },
+        "revenue": null,
+        "cpc": 0.045,
+        "campaignRunning": false,
+        "campaignSections": [
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0045e2808a47a473a35ef2abaa0fe60317_00fddb3a1077928bcecd0296fcd653045a",
+                "publisherId": "0045e2808a47a473a35ef2abaa0fe60317",
+                "externalId": "00fddb3a1077928bcecd0296fcd653045a",
+                "name": "Deadline",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0048938c4af9641f2e04565be89ece5954_009ccab152daff19c2f26990be7be1164b",
+                "publisherId": "0048938c4af9641f2e04565be89ece5954",
+                "externalId": "009ccab152daff19c2f26990be7be1164b",
+                "name": "CNN",
+                "blocked": false,
+                "cpcAdjustment": 0.04,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_00b542aec584ff158091f8f7f6d7650a06_009dead5d50c35e4c3375a9e4c9be2155d",
+                "publisherId": "00b542aec584ff158091f8f7f6d7650a06",
+                "externalId": "009dead5d50c35e4c3375a9e4c9be2155d",
+                "name": "The Hill Administration",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0048938c4af9641f2e04565be89ece5954_0010207ecdf4c62cfba32bfaf33a3ec5a4",
+                "publisherId": "0048938c4af9641f2e04565be89ece5954",
+                "externalId": "0010207ecdf4c62cfba32bfaf33a3ec5a4",
+                "name": "CNN",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0025ea92db071c35649ca412ac02c2b737_00ed9831dc955416ad62faade33c27a16d",
+                "publisherId": "0025ea92db071c35649ca412ac02c2b737",
+                "externalId": "00ed9831dc955416ad62faade33c27a16d",
+                "name": "TVLine",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0041797707f15898985d814c630ea4cbcf_00474a66c55d0c6edfd2589c64ab95a565",
+                "publisherId": "0041797707f15898985d814c630ea4cbcf",
+                "externalId": "00474a66c55d0c6edfd2589c64ab95a565",
+                "name": "Fox News US",
+                "blocked": false,
+                "cpcAdjustment": -0.03,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0048938c4af9641f2e04565be89ece5954_00d935ee6e523aed7ba15d28456c35a272",
+                "publisherId": "0048938c4af9641f2e04565be89ece5954",
+                "externalId": "00d935ee6e523aed7ba15d28456c35a272",
+                "name": "CNN",
+                "blocked": false,
+                "cpcAdjustment": 0.04,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_004212d4e187697bc2ce1a454fa06c19d2_00542eb6b0fdc890d2999b82152a73a05e",
+                "publisherId": "004212d4e187697bc2ce1a454fa06c19d2",
+                "externalId": "00542eb6b0fdc890d2999b82152a73a05e",
+                "name": "Page Six",
+                "blocked": false,
+                "cpcAdjustment": -0.02,
+                "trackingParameters": {},
+                "revenue": null
+            }
+        ],
+        "targetPlatforms": [
+            "TABLET",
+            "MOBILE"
+        ],
+        "targetOperatingSystems": [
+            "Android"
+        ],
+        "targetBrowsers": [],
+        "domain": "scribol.com",
+        "externalUrl": null
+    },
+    {
+        "id": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5",
+        "externalId": "00ed02eb60cf8a331a1cf436244d85d6eb",
+        "companyId": "pubocean",
+        "source": "Outbrain",
+        "accountId": "0049f790551a30f3fb7f4f0e1058799d3c",
+        "name": "106768| Travolta DAUGHTER MT",
+        "campaignBudget": {
+            "name": "8a8af800-b5ed-11e8-8b1a-d1b02f1ed18e",
+            "amount": 4500,
+            "amountRemaining": null,
+            "pacing": "SPEND_ASAP",
+            "currency": "USD",
+            "type": "DAILY",
+            "startDate": "2018-09-13",
+            "runForever": true,
+            "endDate": null,
+            "dailyTarget": null
+        },
+        "campaignLiveStatus": {
+            "onAir": true,
+            "onAirReason": "CAMPAIGN_ON_AIR",
+            "amountSpent": 952.27,
+            "enabled": true
+        },
+        "campaignCreationTime": "2018-09-11T15:07:27",
+        "modifiedDate": "2018-09-25T21:04:38.373",
+        "trackingParameters": {
+            "utm_term": "{{publisher_name}}_-_{{section_name}}_-_{{publisher_id}}_-_{{section_id}}",
+            "utm_campaign": "106768",
+            "utm_medium": "CPC",
+            "utm_content": "{{ad_title}}",
+            "utm_source": "Outbrain-AdRizer"
+        },
+        "revenue": null,
+        "cpc": 0.04,
+        "campaignRunning": false,
+        "campaignSections": [
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_004212d4e187697bc2ce1a454fa06c19d2_00542eb6b0fdc890d2999b82152a73a05e",
+                "publisherId": "004212d4e187697bc2ce1a454fa06c19d2",
+                "externalId": "00542eb6b0fdc890d2999b82152a73a05e",
+                "name": "Page Six",
+                "blocked": false,
+                "cpcAdjustment": -0.02,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0045e2808a47a473a35ef2abaa0fe60317_00fddb3a1077928bcecd0296fcd653045a",
+                "publisherId": "0045e2808a47a473a35ef2abaa0fe60317",
+                "externalId": "00fddb3a1077928bcecd0296fcd653045a",
+                "name": "Deadline",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0041797707f15898985d814c630ea4cbcf_00474a66c55d0c6edfd2589c64ab95a565",
+                "publisherId": "0041797707f15898985d814c630ea4cbcf",
+                "externalId": "00474a66c55d0c6edfd2589c64ab95a565",
+                "name": "Fox News US",
+                "blocked": false,
+                "cpcAdjustment": -0.03,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0025ea92db071c35649ca412ac02c2b737_00ed9831dc955416ad62faade33c27a16d",
+                "publisherId": "0025ea92db071c35649ca412ac02c2b737",
+                "externalId": "00ed9831dc955416ad62faade33c27a16d",
+                "name": "TVLine",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0048938c4af9641f2e04565be89ece5954_00d935ee6e523aed7ba15d28456c35a272",
+                "publisherId": "0048938c4af9641f2e04565be89ece5954",
+                "externalId": "00d935ee6e523aed7ba15d28456c35a272",
+                "name": "CNN",
+                "blocked": false,
+                "cpcAdjustment": 0.04,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0048938c4af9641f2e04565be89ece5954_0010207ecdf4c62cfba32bfaf33a3ec5a4",
+                "publisherId": "0048938c4af9641f2e04565be89ece5954",
+                "externalId": "0010207ecdf4c62cfba32bfaf33a3ec5a4",
+                "name": "CNN",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0048938c4af9641f2e04565be89ece5954_009ccab152daff19c2f26990be7be1164b",
+                "publisherId": "0048938c4af9641f2e04565be89ece5954",
+                "externalId": "009ccab152daff19c2f26990be7be1164b",
+                "name": "CNN",
+                "blocked": false,
+                "cpcAdjustment": 0.04,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_00b542aec584ff158091f8f7f6d7650a06_009dead5d50c35e4c3375a9e4c9be2155d",
+                "publisherId": "00b542aec584ff158091f8f7f6d7650a06",
+                "externalId": "009dead5d50c35e4c3375a9e4c9be2155d",
+                "name": "The Hill Administration",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            }
+        ],
+        "targetPlatforms": [
+            "TABLET",
+            "MOBILE"
+        ],
+        "targetOperatingSystems": [
+            "Android"
+        ],
+        "targetBrowsers": [],
+        "domain": "scribol.com",
+        "externalUrl": null
+    },
+    {
+        "id": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5",
+        "externalId": "00ed02eb60cf8a331a1cf436244d85d6eb",
+        "companyId": "pubocean",
+        "source": "Outbrain",
+        "accountId": "0049f790551a30f3fb7f4f0e1058799d3c",
+        "name": "106768| Travolta DAUGHTER MT",
+        "campaignBudget": {
+            "name": "8a8af800-b5ed-11e8-8b1a-d1b02f1ed18e",
+            "amount": 4500,
+            "amountRemaining": null,
+            "pacing": "SPEND_ASAP",
+            "currency": "USD",
+            "type": "DAILY",
+            "startDate": "2018-09-13",
+            "runForever": true,
+            "endDate": null,
+            "dailyTarget": null
+        },
+        "campaignLiveStatus": {
+            "onAir": true,
+            "onAirReason": "CAMPAIGN_ON_AIR",
+            "amountSpent": 952.27,
+            "enabled": true
+        },
+        "campaignCreationTime": "2018-09-11T15:07:27",
+        "modifiedDate": "2018-09-26T04:06:30.126",
+        "trackingParameters": {
+            "utm_term": "{{publisher_name}}_-_{{section_name}}_-_{{publisher_id}}_-_{{section_id}}",
+            "utm_campaign": "106768",
+            "utm_medium": "CPC",
+            "utm_content": "{{ad_title}}",
+            "utm_source": "Outbrain-AdRizer"
+        },
+        "revenue": null,
+        "cpc": 0.065,
+        "campaignRunning": false,
+        "campaignSections": [
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0048938c4af9641f2e04565be89ece5954_0010207ecdf4c62cfba32bfaf33a3ec5a4",
+                "publisherId": "0048938c4af9641f2e04565be89ece5954",
+                "externalId": "0010207ecdf4c62cfba32bfaf33a3ec5a4",
+                "name": "CNN",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_00b542aec584ff158091f8f7f6d7650a06_009dead5d50c35e4c3375a9e4c9be2155d",
+                "publisherId": "00b542aec584ff158091f8f7f6d7650a06",
+                "externalId": "009dead5d50c35e4c3375a9e4c9be2155d",
+                "name": "The Hill Administration",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0041797707f15898985d814c630ea4cbcf_00474a66c55d0c6edfd2589c64ab95a565",
+                "publisherId": "0041797707f15898985d814c630ea4cbcf",
+                "externalId": "00474a66c55d0c6edfd2589c64ab95a565",
+                "name": "Fox News US",
+                "blocked": false,
+                "cpcAdjustment": -0.03,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0025ea92db071c35649ca412ac02c2b737_00ed9831dc955416ad62faade33c27a16d",
+                "publisherId": "0025ea92db071c35649ca412ac02c2b737",
+                "externalId": "00ed9831dc955416ad62faade33c27a16d",
+                "name": "TVLine",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0048938c4af9641f2e04565be89ece5954_009ccab152daff19c2f26990be7be1164b",
+                "publisherId": "0048938c4af9641f2e04565be89ece5954",
+                "externalId": "009ccab152daff19c2f26990be7be1164b",
+                "name": "CNN",
+                "blocked": false,
+                "cpcAdjustment": 0.04,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0045e2808a47a473a35ef2abaa0fe60317_00fddb3a1077928bcecd0296fcd653045a",
+                "publisherId": "0045e2808a47a473a35ef2abaa0fe60317",
+                "externalId": "00fddb3a1077928bcecd0296fcd653045a",
+                "name": "Deadline",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0048938c4af9641f2e04565be89ece5954_00d935ee6e523aed7ba15d28456c35a272",
+                "publisherId": "0048938c4af9641f2e04565be89ece5954",
+                "externalId": "00d935ee6e523aed7ba15d28456c35a272",
+                "name": "CNN",
+                "blocked": false,
+                "cpcAdjustment": 0.04,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_004212d4e187697bc2ce1a454fa06c19d2_00542eb6b0fdc890d2999b82152a73a05e",
+                "publisherId": "004212d4e187697bc2ce1a454fa06c19d2",
+                "externalId": "00542eb6b0fdc890d2999b82152a73a05e",
+                "name": "Page Six",
+                "blocked": false,
+                "cpcAdjustment": -0.02,
+                "trackingParameters": {},
+                "revenue": null
+            }
+        ],
+        "targetPlatforms": [
+            "TABLET",
+            "MOBILE"
+        ],
+        "targetOperatingSystems": [
+            "Android"
+        ],
+        "targetBrowsers": [],
+        "domain": "scribol.com",
+        "externalUrl": null
+    },
+    {
+        "id": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5",
+        "externalId": "00ed02eb60cf8a331a1cf436244d85d6eb",
+        "companyId": "pubocean",
+        "source": "Outbrain",
+        "accountId": "0049f790551a30f3fb7f4f0e1058799d3c",
+        "name": "106768| Travolta DAUGHTER MT",
+        "campaignBudget": {
+            "name": "8a8af800-b5ed-11e8-8b1a-d1b02f1ed18e",
+            "amount": 4500,
+            "amountRemaining": null,
+            "pacing": "SPEND_ASAP",
+            "currency": "USD",
+            "type": "DAILY",
+            "startDate": "2018-09-13",
+            "runForever": true,
+            "endDate": null,
+            "dailyTarget": null
+        },
+        "campaignLiveStatus": {
+            "onAir": true,
+            "onAirReason": "CAMPAIGN_ON_AIR",
+            "amountSpent": 952.27,
+            "enabled": true
+        },
+        "campaignCreationTime": "2018-09-11T15:07:27",
+        "modifiedDate": "2018-09-26T11:03:50.159",
+        "trackingParameters": {
+            "utm_term": "{{publisher_name}}_-_{{section_name}}_-_{{publisher_id}}_-_{{section_id}}",
+            "utm_campaign": "106768",
+            "utm_medium": "CPC",
+            "utm_content": "{{ad_title}}",
+            "utm_source": "Outbrain-AdRizer"
+        },
+        "revenue": null,
+        "cpc": 0.06,
+        "campaignRunning": false,
+        "campaignSections": [
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0048938c4af9641f2e04565be89ece5954_009ccab152daff19c2f26990be7be1164b",
+                "publisherId": "0048938c4af9641f2e04565be89ece5954",
+                "externalId": "009ccab152daff19c2f26990be7be1164b",
+                "name": "CNN",
+                "blocked": false,
+                "cpcAdjustment": 0.04,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0025ea92db071c35649ca412ac02c2b737_00ed9831dc955416ad62faade33c27a16d",
+                "publisherId": "0025ea92db071c35649ca412ac02c2b737",
+                "externalId": "00ed9831dc955416ad62faade33c27a16d",
+                "name": "TVLine",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_00b542aec584ff158091f8f7f6d7650a06_009dead5d50c35e4c3375a9e4c9be2155d",
+                "publisherId": "00b542aec584ff158091f8f7f6d7650a06",
+                "externalId": "009dead5d50c35e4c3375a9e4c9be2155d",
+                "name": "The Hill Administration",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0041797707f15898985d814c630ea4cbcf_00474a66c55d0c6edfd2589c64ab95a565",
+                "publisherId": "0041797707f15898985d814c630ea4cbcf",
+                "externalId": "00474a66c55d0c6edfd2589c64ab95a565",
+                "name": "Fox News US",
+                "blocked": false,
+                "cpcAdjustment": -0.03,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0045e2808a47a473a35ef2abaa0fe60317_00fddb3a1077928bcecd0296fcd653045a",
+                "publisherId": "0045e2808a47a473a35ef2abaa0fe60317",
+                "externalId": "00fddb3a1077928bcecd0296fcd653045a",
+                "name": "Deadline",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0048938c4af9641f2e04565be89ece5954_0010207ecdf4c62cfba32bfaf33a3ec5a4",
+                "publisherId": "0048938c4af9641f2e04565be89ece5954",
+                "externalId": "0010207ecdf4c62cfba32bfaf33a3ec5a4",
+                "name": "CNN",
+                "blocked": false,
+                "cpcAdjustment": 0.07,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_004212d4e187697bc2ce1a454fa06c19d2_00542eb6b0fdc890d2999b82152a73a05e",
+                "publisherId": "004212d4e187697bc2ce1a454fa06c19d2",
+                "externalId": "00542eb6b0fdc890d2999b82152a73a05e",
+                "name": "Page Six",
+                "blocked": false,
+                "cpcAdjustment": -0.02,
+                "trackingParameters": {},
+                "revenue": null
+            },
+            {
+                "internalId": "0ccecdbf-7be4-4b02-aea5-debe9478d5d5_0048938c4af9641f2e04565be89ece5954_00d935ee6e523aed7ba15d28456c35a272",
+                "publisherId": "0048938c4af9641f2e04565be89ece5954",
+                "externalId": "00d935ee6e523aed7ba15d28456c35a272",
+                "name": "CNN",
+                "blocked": false,
+                "cpcAdjustment": 0.04,
+                "trackingParameters": {},
+                "revenue": null
+            }
+        ],
+        "targetPlatforms": [
+            "TABLET",
+            "MOBILE"
+        ],
+        "targetOperatingSystems": [
+            "Android"
+        ],
+        "targetBrowsers": [],
+        "domain": "scribol.com",
+        "externalUrl": null
+    }
+]}

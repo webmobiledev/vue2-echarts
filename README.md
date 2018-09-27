@@ -2,6 +2,9 @@
 
 > Line chart using VueJS and Echarts
 
+## Demo
+[Click here to see demo](https://vue2echarts.herokuapp.com/)
+
 ## Build Setup
 
 ``` bash
