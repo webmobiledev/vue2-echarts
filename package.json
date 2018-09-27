@@ -22,6 +22,7 @@
     "http": "0.0.0",
     "path": "^0.12.7",
     "semver": "^5.5.1",
+    "shelljs": "^0.7.6",
     "vue": "^2.5.2",
     "vue-echarts-v3": "^1.0.19",
     "vue-router": "^3.0.1"
@@ -80,7 +81,6 @@
     "postcss-url": "^7.2.1",
     "rimraf": "^2.6.0",
     "selenium-server": "^3.0.1",
-    "shelljs": "^0.7.6",
     "sinon": "^4.0.0",
     "sinon-chai": "^2.8.0",
     "uglifyjs-webpack-plugin": "^1.1.1",
