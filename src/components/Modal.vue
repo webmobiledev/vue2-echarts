@@ -75,7 +75,7 @@ export default {
             class="btn-close"
             @click="close"
           >
-            x
+            &times;
           </button>
         </slot>
       </header>

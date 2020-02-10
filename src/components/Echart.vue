@@ -18,7 +18,7 @@
 import modal from './Modal.vue'
 
 export default {
-  name: 'HelloWorld',
+  name: 'Echart',
   components: {
     modal
   },
